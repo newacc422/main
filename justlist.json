@@ -8,11 +8,11 @@
 		"patch": 0
 	},
 	"tokens": [{
-			"symbol": "USDT",
-			"name": "Tether USD",
-			"address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+			"symbol": "TXR",
+			"name": "Trom",
+			"address": "TPdTribeKYsgx7iTGd2ybQRL9HMrdKgFK4",
 			"chainId": 1,
-			"decimals": 6,
+			"decimals": 18,
 			"logoURI": "https://static.tronscan.org/production/logo/usdtlogo.png"
 		},
 		{
